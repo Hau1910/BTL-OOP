@@ -1,0 +1,4 @@
+/* Style riêng của trang chủ (Bootstrap lo phần khung, file này lo phần màu/mỏng) */
+.hero {
+    background: linear-gradient(135deg, #1f1c2c, #928dab);
+}
